@@ -8,10 +8,10 @@ I'm Pin Fang, software engineer at Microsoft, Shanghai. Nice to meet you!
 <a href="https://github.com/fangpin/fangpin"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=fangpin&show_icons=true&theme=gotham" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fangpin&hide=vim%20script,yasnippet,html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=gotham" /></a>
 
 
-### Microsoft referral
+## Microsoft referral
 - 🔭 I’m currently working in Microsoft, so please feel free to send me your CV and job ID if you would like a Microsoft referral. Here is the [link of some job list in China](https://shimo.im/sheets/vFxa7WoTasED6cAH)
 
-#### 📫 Reach me
+## 📫 Reach me
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/pinfang/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/fangpin/)
 <a href="mailto:fpfangpin@hotmail.com"> <img src="https://img.icons8.com/color/72/ms-outlook.png" width="3.5%"/> </a>
