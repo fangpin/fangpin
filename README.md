@@ -14,6 +14,7 @@ I'm Pin Fang, software engineer at Microsoft, Shanghai. Nice to meet you!
 ## 📫 Reach me
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/pinfang/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/fangpin/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://www.zhihu.com/people/pifan7)
 <a href="mailto:fpfangpin@hotmail.com"> <img src="https://img.icons8.com/color/72/ms-outlook.png" width="3.5%"/> </a>
 <!--
 [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)
