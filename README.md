@@ -19,19 +19,19 @@ __Computer Science, Bachelor, East China Normal University__
 ## Work Experience
 
 `2020.3-now`
-Azure Storage, *Microsoft Azure*, Software Engineer
+Azure Storage, *Microsoft Azure*
 
 `2019.9-2019.11`
-Internal ELK Management System, *Bytedance*, Software Engineer Intern
+Internal ELK Management System, *Bytedance* (Intern)
 
 `2019.5-2019.8`
-Network Attached Storage, *Alibaba Cloud*, Software Engineer Intern
+Network Attached Storage, *Alibaba Cloud* (Intern)
 
 `2018.8-2019.3`
-Large-scale Massive Face Retrieve System, *Tencent Youtu Lab*, Software Engineer Intern
+Large-scale Massive Face Retrieve System, *Tencent Youtu Lab* (Intern)
 
-`2016.7-2017.3`
-Advanced Driver Assistance System, *Intel IT Flex*, Software Engineer Intern
+<!-- `2016.7-2017.3`
+Advanced Driver Assistance System, *Intel IT Flex* (Intern) -->
 
 ## Microsoft referral
 - 🔭 I’m currently working at Microsoft, so please feel free to send me your CV and job ID if you would like a Microsoft referral. Here is the [link of some job list in China](https://shimo.im/sheets/vFxa7WoTasED6cAH)
