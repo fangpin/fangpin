@@ -1,12 +1,37 @@
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 I'm Pin Fang, software engineer at Microsoft, Shanghai. Nice to meet you!
 
-<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-
+<!-- <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"> -->
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/fangpin/fangpin"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=fangpin&show_icons=true&theme=gotham" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fangpin&hide=vim%20script,java,yasnippet,html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=gotham" /></a>
 
+
+# About me
+## Education
+
+`2017.9-2020.3`
+__Computer Science, Master, Shanghai Jiao Tong University__
+
+`2013.9-2017.7`
+__Computer Science, Bachelor, East China Normal University__
+  
+## Work Experience
+
+`2020.3-now`
+Azure Storage, *Microsoft Azure*, Software Engineer
+
+`2019.9-2019.11`
+Internal ELK Management System, *Bytedance*, Software Engineer Intern
+
+`2019.5-2019.8`
+Network Attached Storage, *Alibaba Cloud*, Software Engineer Intern
+
+`2018.8-2019.3`
+Large-scale Massive Face Retrieve System, *Tencent Youtu Lab*, Software Engineer Intern
+
+`2016.7-2017.3`
+Advanced Driver Assistance System, *Intel IT Flex*, Software Engineer Intern
 
 ## Microsoft referral
 - 🔭 I’m currently working at Microsoft, so please feel free to send me your CV and job ID if you would like a Microsoft referral. Here is the [link of some job list in China](https://shimo.im/sheets/vFxa7WoTasED6cAH)
@@ -20,17 +45,5 @@ I'm Pin Fang, software engineer at Microsoft, Shanghai. Nice to meet you!
 <a href="mailto:fpfangpin@hotmail.com"> <img src="https://img.icons8.com/color/72/ms-outlook.png" width="3.5%"/> </a>
 
   
-# About me
-## Education
-
-`2017.9-2020.3`
-__Computer Science, Master, Shanghai Jiao Tong University__
-
-`2013.9-2017.7`
-__Computer Science, Bachelor, East China Normal University__
-  
-## Work Experience
-`2019.5-2019.8`
-Distributed file system, *Alibaba Cloud*, Software Engineer Intern
   
 
