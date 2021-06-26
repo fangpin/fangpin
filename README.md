@@ -3,11 +3,10 @@ I'm Pin Fang, software engineer at Microsoft, Shanghai. Nice to meet you!
 
 <!-- <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"> -->
 
-# 👨‍💻 Repositories 👨‍💻
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/fangpin/siamese-pytorch" title="Algorithms"><img align="left" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=siamese-pytorch"></a><a align="right" href="https://github.com/fangpin/miniDFS" title="miniDFS"><img align="right" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=miniDFS"></a>
-</div>
+# 👨‍💻 Popular Repositories 👨‍💻
+<a align="left" href="https://github.com/fangpin/siamese-pytorch" title="Algorithms"><img align="left" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=siamese-pytorch&border_color=61dafb&border_radius=10"></a>
+<a align="right" href="https://github.com/fangpin/miniDFS" title="miniDFS"><img align="right" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=miniDFS&border_color=61dafb&border_radius=10"></a>
+<br/><br/><br/><br/><br/><br/>
 <!-- <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
