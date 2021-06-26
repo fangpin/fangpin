@@ -1,9 +1,9 @@
-# Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome
 I'm Pin Fang, software engineer at Microsoft, Shanghai. Nice to meet you!
 
 <!-- <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"> -->
 
-# 👨‍💻 Popular Repositories 👨‍💻
+# 👨‍💻 Popular Repositories
 <a align="left" href="https://github.com/fangpin/siamese-pytorch" title="Algorithms"><img align="left" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=siamese-pytorch&border_color=61dafb&border_radius=10"></a>
 <a align="right" href="https://github.com/fangpin/miniDFS" title="miniDFS"><img align="right" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=miniDFS&border_color=61dafb&border_radius=10"></a>
 <br/><br/><br/><br/><br/><br/>
@@ -18,7 +18,7 @@ I'm Pin Fang, software engineer at Microsoft, Shanghai. Nice to meet you!
 <a href="https://github.com/fangpin/fangpin"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=fangpin&show_icons=true&theme=gotham" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fangpin&hide=vim%20script,java,yasnippet,html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=gotham" /></a>
 
 
-# About me
+# <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About me
 ## Education
 
 `2017.9-2020.3`
