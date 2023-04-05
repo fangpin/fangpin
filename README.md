@@ -17,7 +17,7 @@ I'm Pin Fang, software engineer at Microsoft, Shanghai. Nice to meet you!
 # &#x1f4c8; GitHub Stats
 <a href="https://github.com/fangpin/fangpin"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=fangpin&show_icons=true&theme=gotham&include_all_commits=true&hide_border=true" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fangpin&hide=vim%20script,yasnippet,html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=gotham" /></a>
 
-[![fangpin's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=fangpin&theme=vue&custom_title=FangPin's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![fangpin's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=fangpin&theme=vue&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
