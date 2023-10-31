@@ -47,9 +47,6 @@ __Computer Science, Bachelor, East China Normal University__
 <!-- `2016.7-2017.3`
 *Advanced Driver Assistance System*, __Intel IT Flex__ (Intern) -->
 
-## Microsoft referral
-- 🔭 I’m currently working at Microsoft, so please feel free to send me your CV and job ID if you would like a Microsoft referral. Here is the [link of some job list in China](https://shimo.im/sheets/vFxa7WoTasED6cAH)
-
 ## 📫 Reach me
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/pinfang/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/fangpin/)
