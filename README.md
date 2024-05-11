@@ -1,5 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome
-I'm Pin Fang, software engineer at Microsoft, Shanghai. Nice to meet you!
+I'm Pin Fang, software engineer at Tiktok, Shanghai. Nice to meet you!
 
 <!-- <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"> -->
 
@@ -32,7 +32,10 @@ __Computer Science, Bachelor, East China Normal University__
   
 ## Work Experience
 
-`2020.3-now`
+`2020.3-2023.11`
+*Tiktok*, __Tiktok__
+
+`2020.3-2023.11`
 *Azure Storage*, __Microsoft Azure__
 
 `2019.9-2019.11`
