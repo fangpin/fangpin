@@ -3,12 +3,15 @@ I'm Pin Fang, a software engineer at Tiktok, Shanghai. Nice to meet you!
 
 My main interests include distributed systems, storage, databases, and photography. Feel free to contact me if you are also interested in the above fields or me.
 
+<a href="mailto:fpfangpin@hotmail.com"> <img src="https://img.icons8.com/color/72/ms-outlook.png" width="3.5%"/> </a>
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/pinfang/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/fangpin/)
 [<img src="https://img.icons8.com/windows/72/zhihu.png" width="3.5%"/>](https://www.zhihu.com/people/pifan7)
 [<img src="https://img.icons8.com/color/2x/weibo.png" width="3.5%"/>](https://weibo.com/2940472741/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
 [<img src="https://user-images.githubusercontent.com/9050713/39107515-619773e0-46f5-11e8-9fa9-2859816f1c42.png" width="3.5%"/>](https://space.bilibili.com/2922986)
-<a href="mailto:fpfangpin@hotmail.com"> <img src="https://img.icons8.com/color/72/ms-outlook.png" width="3.5%"/> </a>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/XiaohongshuLOGO.png" width="3.5%" />](https://www.xiaohongshu.com/user/profile/5deb3ef10000000001003689)
+[<img src="https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/media/logo-horizontal-small-dark.04fa81ed0b1d6d5e.svg" width="3.5%" />](https://www.douyin.com/user/MS4wLjABAAAA3S9c4XFHCuFEGIbw9XF9OYUjXfEwM9gYKjFUKlD7Wx0?from_tab_name=main)
+
 
 <!-- <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"> -->
 
@@ -30,7 +33,7 @@ My main interests include distributed systems, storage, databases, and photograp
 
 
 
-# <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About me
+# <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> My Experience
 ## Education
 
 `2017.9-2020.3`
@@ -39,7 +42,7 @@ __Computer Science, Master, Shanghai Jiao Tong University__
 `2013.9-2017.7`
 __Computer Science, Bachelor, East China Normal University__
   
-## Work Experience
+## Work
 
 `2020.3-2023.11`
 *Tiktok*, __Tiktok__
@@ -60,12 +63,14 @@ __Computer Science, Bachelor, East China Normal University__
 *Advanced Driver Assistance System*, __Intel IT Flex__ (Intern) -->
 
 ## 📫 Reach me
+<a href="mailto:fpfangpin@hotmail.com"> <img src="https://img.icons8.com/color/72/ms-outlook.png" width="3.5%"/> </a>
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/pinfang/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/fangpin/)
 [<img src="https://img.icons8.com/windows/72/zhihu.png" width="3.5%"/>](https://www.zhihu.com/people/pifan7)
 [<img src="https://img.icons8.com/color/2x/weibo.png" width="3.5%"/>](https://weibo.com/2940472741/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
 [<img src="https://user-images.githubusercontent.com/9050713/39107515-619773e0-46f5-11e8-9fa9-2859816f1c42.png" width="3.5%"/>](https://space.bilibili.com/2922986)
-<a href="mailto:fpfangpin@hotmail.com"> <img src="https://img.icons8.com/color/72/ms-outlook.png" width="3.5%"/> </a>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/XiaohongshuLOGO.png" width="3.5%" />](https://www.xiaohongshu.com/user/profile/5deb3ef10000000001003689)
+[<img src="https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/media/logo-horizontal-small-dark.04fa81ed0b1d6d5e.svg" width="3.5%" />](https://www.douyin.com/user/MS4wLjABAAAA3S9c4XFHCuFEGIbw9XF9OYUjXfEwM9gYKjFUKlD7Wx0?from_tab_name=main)
 
   
   
