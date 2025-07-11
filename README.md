@@ -27,7 +27,7 @@ My main interests include distributed systems, storage, databases, and photograp
 <br/><br/><br/><br/><br/><br/> -->
 
 # &#x1f4c8; GitHub Stats
-<a href="https://github.com/fangpin/fangpin"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=fangpin&show_icons=true&theme=gotham&include_all_commits=true&hide_border=true" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fangpin&hide=vim%20script,yasnippet,html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=gotham" /></a>
+<a href="https://github.com/fangpin/fangpin"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=fangpin&show_icons=true&theme=gotham&include_all_commits=true&hide_border=true" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fangpin&hide=vim%20script,yasnippet,html,Jupyter%20Notebook,Makefile,Shell,Emacs%20Lisp&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=gotham" /></a>
 
 [![fangpin's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=fangpin&theme=vue&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
