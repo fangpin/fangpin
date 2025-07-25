@@ -50,17 +50,14 @@ __Computer Science, Bachelor, East China Normal University__
 `2020.3-2023.11`
 *Azure Storage*, __Microsoft Azure__
 
-`2019.9-2019.11`
-*Internal ELK Management System*, __Bytedance__ (Intern)
-
 `2019.5-2019.8`
 *Network Attached Storage*, __Alibaba Cloud__ (Intern)
 
 `2018.8-2019.3`
 *Large-scale Massive Face Retrieve System*, __Tencent Youtu Lab__ (Intern)
 
-<!-- `2016.7-2017.3`
-*Advanced Driver Assistance System*, __Intel IT Flex__ (Intern) -->
+`2016.7-2017.3`
+*Vision object detection in driving system*, __Intel__ (Intern) -->
 
 ## 📫 Reach me
 <a href="mailto:fpfangpin@hotmail.com"> <img src="https://img.icons8.com/color/72/ms-outlook.png" width="3.5%"/> </a>
