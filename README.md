@@ -57,7 +57,7 @@ __Computer Science, Bachelor, East China Normal University__
 *Large-scale Massive Face Retrieve System*, __Tencent Youtu Lab__ (Intern)
 
 `2016.7-2017.3`
-*Vision object detection in driving system*, __Intel__ (Intern) -->
+*Vision object detection in driving system*, __Intel__ (Intern)
 
 ## 📫 Reach me
 <a href="mailto:fpfangpin@hotmail.com"> <img src="https://img.icons8.com/color/72/ms-outlook.png" width="3.5%"/> </a>
