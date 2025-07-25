@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome
 I'm Pin Fang, a software engineer at Tiktok, Shanghai. Nice to meet you!
 
-My main interests include distributed systems, storage, databases, and photography. Feel free to contact me if you are also interested in the above fields or me.
+My main interests include AI Infra，distributed systems, and photography. Feel free to contact me if you are also interested in the above fields or me.
 
 <a href="mailto:fpfangpin@hotmail.com"> <img src="https://img.icons8.com/color/72/ms-outlook.png" width="3.5%"/> </a>
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/pinfang/)
