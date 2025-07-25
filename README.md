@@ -44,7 +44,7 @@ __Computer Science, Bachelor, East China Normal University__
   
 ## Work
 
-`2020.3-2023.11`
+`2023.11-now`
 *Tiktok*, __Tiktok__
 
 `2020.3-2023.11`
