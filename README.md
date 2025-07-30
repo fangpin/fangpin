@@ -63,4 +63,8 @@ __Computer Science, Bachelor, East China Normal University__
 ## Sponsorships
 If you like my projects and want to support me, you can use the following payment methods:
 
+| Alipay | WeChat Pay |
+| :---: | :---: |
+| <img src="https://github.com/fangpin/fangpin/blob/main/IMG_20250730_201150.jpg" width="200px" alt="Alipay QR Code"/> | <img src="https://github.com/fangpin/fangpin/blob/main/IMG_20250730_201230.png" width="200px" alt="WeChat Pay QR Code"/> |
+| Scan to pay with Alipay | Scan to pay with WeChat |
 
