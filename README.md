@@ -60,6 +60,7 @@ __Computer Science, Bachelor, East China Normal University__
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/XiaohongshuLOGO.png" width="3.5%" />](https://www.xiaohongshu.com/user/profile/5deb3ef10000000001003689)
 [<img src="https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/media/logo-horizontal-small-dark.04fa81ed0b1d6d5e.svg" width="3.5%" />](https://www.douyin.com/user/MS4wLjABAAAA3S9c4XFHCuFEGIbw9XF9OYUjXfEwM9gYKjFUKlD7Wx0?from_tab_name=main) -->
 
-  
-  
+## Sponsorships
+If you like my projects and want to support me, you can use the following payment methods:
+
 
