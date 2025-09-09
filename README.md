@@ -7,39 +7,39 @@ I'm Pin Fang, a software engineer at Tiktok, Shanghai. Nice to meet you!
 <!-- <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"> -->
 
 # 👨‍💻 Popular Repositories
-<!-- 第一行：前两个仓库 -->
-<div style="display: flex; gap: 16px; margin-bottom: 16px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px;">
-    <a href="https://github.com/fangpin/siamese-pytorch" title="Siamese Network in PyTorch">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=siamese-pytorch&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=gotham" />
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 300px;">
-    <a href="https://github.com/fangpin/llm-from-scratch" title="LLM from Scratch">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=llm-from-scratch&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=gotham" />
-    </a>
-  </div>
-</div>
 
-<!-- 第二行：后两个仓库 -->
-<div style="display: flex; gap: 16px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px;">
-    <a href="https://github.com/fangpin/redis-rs" title="Redis in Rust">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=redis-rs&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=gotham" />
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 300px;">
-    <a href="https://github.com/fangpin/miniDFS" title="Mini Distributed File System">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=miniDFS&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=gotham" />
-    </a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/fangpin/siamese-pytorch" title="Siamese Network in PyTorch">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=siamese-pytorch&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=gotham" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/fangpin/llm-from-scratch" title="LLM from Scratch">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=llm-from-scratch&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=gotham" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/fangpin/redis-rs" title="Redis in Rust">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=redis-rs&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=gotham" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/fangpin/miniDFS" title="Mini Distributed File System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=miniDFS&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=gotham" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 # &#x1f4c8; GitHub Stats
 <a href="https://github.com/fangpin/fangpin"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=fangpin&show_icons=true&theme=gotham&include_all_commits=true&hide_border=true" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fangpin&hide=vim%20script,yasnippet,html,Jupyter%20Notebook,Makefile,Shell,Emacs%20Lisp&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=gotham" /></a>
 
-[![fangpin's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=fangpin&theme=vue&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![fangpin's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=fangpin&theme=vue&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
 
@@ -60,8 +60,8 @@ __Computer Science, Bachelor, East China Normal University__
 `2020.3-2023.11`
 *Azure Storage*, __Microsoft Azure__
 
-`2019.5-2019.8`
-*Network Attached Storage*, __Alibaba Cloud__ (Intern)
+<!-- `2019.5-2019.8`
+*Network Attached Storage*, __Alibaba Cloud__ (Intern) -->
 
 `2018.8-2019.3`
 *Large-scale Massive Face Retrieve System*, __Tencent Youtu Lab__ (Intern)
@@ -82,8 +82,7 @@ __Computer Science, Bachelor, East China Normal University__
 ## Sponsorships
 If you like my projects and want to support me, you can use the following payment methods:
 
-| Alipay | WeChat Pay |
-| :---: | :---: |
+|                                                        Alipay                                                        |                                                        WeChat Pay                                                        |
+| :------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://github.com/fangpin/fangpin/blob/main/IMG_20250730_201150.jpg" width="200px" alt="Alipay QR Code"/> | <img src="https://github.com/fangpin/fangpin/blob/main/IMG_20250730_201230.png" width="200px" alt="WeChat Pay QR Code"/> |
-| Scan to pay with Alipay | Scan to pay with WeChat |
-
+|                                               Scan to pay with Alipay                                                |                                                 Scan to pay with WeChat                                                  |
