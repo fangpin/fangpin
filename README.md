@@ -8,6 +8,8 @@ I'm Pin Fang, a software engineer at Tiktok, Shanghai. Nice to meet you!
 
 # 👨‍💻 Popular Repositories
 <a align="left" href="https://github.com/fangpin/siamese-pytorch" title="Algorithms"><img align="left" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=siamese-pytorch&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=gotham"></a>
+<a align="left" href="https://github.com/fangpin/llm-from-scratch" title="Algorithms"><img align="left" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=llm-from-scratch&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=gotham"></a>
+<a align="left" href="https://github.com/fangpin/redis-rs" title="Algorithms"><img align="left" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=redis-rs&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=gotham"></a>
 <a align="left" href="https://github.com/fangpin/miniDFS" title="miniDFS"><img align="left" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=miniDFS&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=gotham"></a>
 <br/><br/><br/><br/><br/><br/>
 <!-- <br/><br/><br/><br/><br/><br/>
