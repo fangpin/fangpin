@@ -69,6 +69,9 @@ __Computer Science, Bachelor, East China Normal University__
 `2016.7-2017.3`
 *Vision object detection in driving system*, __Intel__ (Intern)
 
+## Publish
+[Fang, Pin, Yisen Wang, and Yuan Luo. "Self-Attentive Networks for one-shot Image Recognition." 2019 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2019](https://ieeexplore.ieee.org/document/8784775)
+
 ## 📫 Reach me
 <a href="mailto:fpfangpin@hotmail.com"> <img src="https://img.icons8.com/color/72/ms-outlook.png" width="3.5%"/> </a>
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/pinfang/)
