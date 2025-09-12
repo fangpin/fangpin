@@ -12,24 +12,24 @@ I'm Pin Fang, a software engineer at Tiktok, Shanghai. Nice to meet you!
   <tr>
     <td>
       <a href="https://github.com/fangpin/siamese-pytorch" title="Siamese Network in PyTorch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=siamese-pytorch&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=gotham" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=siamese-pytorch&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=gotham&cache_seconds=7200" />
       </a>
     </td>
     <td>
       <a href="https://github.com/fangpin/llm-from-scratch" title="LLM from Scratch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=llm-from-scratch&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=gotham" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=llm-from-scratch&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=gotham&cache_seconds=7200" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/fangpin/redis-rs" title="Redis in Rust">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=redis-rs&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=gotham" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=redis-rs&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=gotham&cache_seconds=7200" />
       </a>
     </td>
     <td>
       <a href="https://github.com/fangpin/miniDFS" title="Mini Distributed File System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=miniDFS&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=gotham" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fangpin&repo=miniDFS&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=gotham&cache_seconds=7200" />
       </a>
     </td>
   </tr>
