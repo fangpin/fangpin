@@ -44,14 +44,6 @@ I'm Pin Fang, a software engineer at Tiktok, Shanghai. Nice to meet you!
 
 
 # <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> My Experience
-## Education
-
-`2017.9-2020.3`
-__Computer Science, Master, Shanghai Jiao Tong University__
-
-`2013.9-2017.7`
-__Computer Science, Bachelor, East China Normal University__
-  
 ## Work
 
 `2023.11-now`
@@ -68,6 +60,14 @@ __Computer Science, Bachelor, East China Normal University__
 
 `2016.7-2017.3`
 *Vision object detection in driving system*, __Intel__ (Intern)
+
+## Education
+
+`2017.9-2020.3`
+__Computer Science, Master, Shanghai Jiao Tong University__
+
+`2013.9-2017.7`
+__Computer Science, Bachelor, East China Normal University__
 
 ## Publish
 [Fang, Pin, Yisen Wang, and Yuan Luo. "Self-Attentive Networks for one-shot Image Recognition." 2019 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2019](https://ieeexplore.ieee.org/document/8784775)
