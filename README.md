@@ -12,6 +12,21 @@ I'm Pin Fang, a software engineer at Tiktok, Shanghai. Nice to meet you!
 [<img src="https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/media/logo-horizontal-small-dark.04fa81ed0b1d6d5e.svg" width="3.5%" />](https://www.douyin.com/user/MS4wLjABAAAA3S9c4XFHCuFEGIbw9XF9OYUjXfEwM9gYKjFUKlD7Wx0?from_tab_name=main) -->
 
 
+## Building
+
+- **[GPU HPC Book](https://github.com/fangpin/gpu-hpc-book)** [![GitHub stars](https://img.shields.io/github/stars/fangpin/gpu-hpc-book?style=flat&color=gold)](https://github.com/fangpin/gpu-hpc-book) - A hands-on book about GPU high-performance computing, CUDA, Tensor Cores, TMA, WGMMA, TPU collectives, and TIRx.
+- **[LLM from Scratch](https://github.com/fangpin/llm-from-scratch)** [![GitHub stars](https://img.shields.io/github/stars/fangpin/llm-from-scratch?style=flat&color=gold)](https://github.com/fangpin/llm-from-scratch) - A modern decoder-only Transformer stack in PyTorch, including BPE, RoPE, RMSNorm, SwiGLU, Flash Attention 2, DDP, SFT, and RL fine-tuning.
+- **[Lark Agent Bridge](https://github.com/fangpin/lark-agent-bridge)** [![GitHub stars](https://img.shields.io/github/stars/fangpin/lark-agent-bridge?style=flat&color=gold)](https://github.com/fangpin/lark-agent-bridge) - Bridge coding agents into Lark chats, cloud docs, worktree groups, and collaborative agent workflows.
+- **[Remote Nvim](https://github.com/fangpin/remote-nvim.nvim)** [![GitHub stars](https://img.shields.io/github/stars/fangpin/remote-nvim.nvim?style=flat&color=gold)](https://github.com/fangpin/remote-nvim.nvim) - Remote development in Neovim for devboxes and SSH-backed workflows.
+- **[redis-rs](https://github.com/fangpin/redis-rs)** [![GitHub stars](https://img.shields.io/github/stars/fangpin/redis-rs?style=flat&color=gold)](https://github.com/fangpin/redis-rs) - Redis server implementation in Rust, covering RESP, RDB persistence, replication, streams, and transactions.
+- **[miniDFS](https://github.com/fangpin/miniDFS)** [![GitHub stars](https://img.shields.io/github/stars/fangpin/miniDFS?style=flat&color=gold)](https://github.com/fangpin/miniDFS) - A C++ mini distributed file system with file striping, replicated chunks, name server metadata, and data server threads.
+- **[Siamese PyTorch](https://github.com/fangpin/siamese-pytorch)** [![GitHub stars](https://img.shields.io/github/stars/fangpin/siamese-pytorch?style=flat&color=gold)](https://github.com/fangpin/siamese-pytorch) - Siamese Networks for one-shot image recognition on Omniglot, connected to my ICME 2019 paper.
+
+## Contributing to
+
+- **[CowAgent](https://github.com/zhayujie/CowAgent)** [![GitHub stars](https://img.shields.io/github/stars/zhayujie/CowAgent?style=flat&color=gold)](https://github.com/zhayujie/CowAgent) - Added Azure-hosted ChatGPT service support and Railway deployment support.
+
+
 <!-- <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"> -->
 
 
