@@ -42,8 +42,10 @@ I'm Pin Fang, a software engineer at Tiktok, Shanghai. Nice to meet you!
 
 
 
-## Publish
-[Fang, Pin, Yisen Wang, and Yuan Luo. "Self-Attentive Networks for one-shot Image Recognition." 2019 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2019](https://ieeexplore.ieee.org/document/8784775)
+## Publications
+
+- [Fang, Pin, Yisen Wang, and Yuan Luo. "Self-Attentive Networks for one-shot Image Recognition." 2019 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2019](https://ieeexplore.ieee.org/document/8784775)
+- **[GPU High Performance Computing](https://fangpin.github.io/gpu-hpc-book/)** - A hands-on online book about GPU programming, performance modeling, CUDA, Tensor Cores, TMA, WGMMA, TPU collectives, and TIRx.
 
 
 
