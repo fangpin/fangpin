@@ -1,8 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome
-I'm Pin Fang, a software engineer at Tiktok, Shanghai. Nice to meet you!
-
-<a href="mailto:fpfangpin@hotmail.com"> <img src="https://img.icons8.com/color/72/ms-outlook.png" width="3.5%"/> </a>
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/pinfang/)
+I'm Pin Fang, a software engineer at Tiktok, Shanghai. Nice to meet you! 
 <!-- [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/fangpin/)
 [<img src="https://img.icons8.com/windows/72/zhihu.png" width="3.5%"/>](https://www.zhihu.com/people/pifan7)
 [<img src="https://img.icons8.com/color/2x/weibo.png" width="3.5%"/>](https://weibo.com/2940472741/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
