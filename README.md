@@ -22,7 +22,7 @@ I'm Pin Fang, a software engineer at Tiktok, Shanghai. Nice to meet you!
 - **[gobang](https://github.com/fangpin/gobang)** [![GitHub stars](https://img.shields.io/github/stars/fangpin/gobang?style=flat&color=gold)](https://github.com/fangpin/gobang) - A Java Gobang game with a GUI, minimax search, and alpha-beta pruning.
 - **[Lark Agent Bridge](https://github.com/fangpin/lark-agent-bridge)** [![GitHub stars](https://img.shields.io/github/stars/fangpin/lark-agent-bridge?style=flat&color=gold)](https://github.com/fangpin/lark-agent-bridge) - Bridge coding agents into Lark chats, cloud docs, worktree groups, and collaborative agent workflows.
 - **[yolo-caffe](https://github.com/fangpin/yolo-caffe)** [![GitHub stars](https://img.shields.io/github/stars/fangpin/yolo-caffe?style=flat&color=gold)](https://github.com/fangpin/yolo-caffe) - A Caffe-based YOLO v1 implementation connecting Darknet-style object detection ideas to the Caffe ecosystem.
-- **[GPU HPC Book](https://github.com/fangpin/gpu-hpc-book)** [![GitHub stars](https://img.shields.io/github/stars/fangpin/gpu-hpc-book?style=flat&color=gold)](https://github.com/fangpin/gpu-hpc-book) - A hands-on book about GPU high-performance computing, CUDA, Tensor Cores, TMA, WGMMA, TPU collectives, and TIRx.
+
 
 ## Contributing to
 
