@@ -43,6 +43,7 @@ I'm Pin Fang, a software engineer at Tiktok, Shanghai. Nice to meet you!
 - [Fang, Pin, Yisen Wang, and Yuan Luo. "Self-Attentive Networks for one-shot Image Recognition." 2019 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2019](https://ieeexplore.ieee.org/document/8784775)
 - **[GPU High Performance Computing](https://fangpin.github.io/gpu-hpc-book/)** - A hands-on online book about GPU programming, performance modeling, CUDA, Tensor Cores, TMA, WGMMA, TPU collectives, and TIRx.
 - **[Build LLM from Scratch](https://fangpin.github.io/llm-from-scratch/)** - An online book on building a decoder-only Transformer from scratch, covering BPE, RoPE, Flash Attention 2, inference optimization, distributed training, scaling laws, SFT, RLHF, and RLVR.
+- **[LLM Inference Engines](https://fangpin.github.io/llm-infer-book/)** - An online book on LLM inference engines, with Mini-SGLang and SGLang source walkthroughs covering scheduling, KV caching, GPU execution, distributed parallelism, quantization, speculative decoding, and production tuning.
 
 
 
